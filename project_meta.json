@@ -1,10 +1,17 @@
 {
-  "seq": 68,
   "title": "Caf\u00e9 and Restaurant Demand Forecasting Dashboard",
-  "slug": "caf-and-restaurant-demand-forecasting-dashboard",
+  "old_slug": "caf-and-restaurant-demand-forecasting-dashboard",
+  "slug": "cafe-restaurant-demand-forecast",
   "folder": "Caf_And_Restaurant_Demand_Forecasting_Dashboard",
   "kind": "governance",
-  "body_words": 234,
+  "body_words": 296,
+  "source": "MICT Academic",
   "project_id": "Academic Project 11",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
